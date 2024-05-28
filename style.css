@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #a3a3a3;
+    text-align: center;
+}
+h1{
+    margin: 20px 0 20px 0;
+}
+
+button{
+    margin: 20px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.result{
+    margin-bottom: 20px;
+    color: rgb(34, 20, 231);
+}
+
+div>p{
+    margin: 10px;
+}
+
